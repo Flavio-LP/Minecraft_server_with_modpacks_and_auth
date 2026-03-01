@@ -1,0 +1,13 @@
+name = "Daily Boss"
+filename = "DailyBoss-1.20.1-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b83f64d9eddf1c81d37c327c45f92d599040a0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7205849
+project-id = 1297381
