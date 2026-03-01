@@ -1,0 +1,13 @@
+name = "modpack_dos_guri"
+author = "Flavio"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0f5f9d489a92d31561e36dd0862e71a49e0ab3a5b4de630c670b35d87d69c333"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"

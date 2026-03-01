@@ -1,0 +1,13 @@
+name = "Daily Boss x Brutal Bosses"
+filename = "DailyBoss-BrutalBosses-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HnkK6EjT/versions/dala7KeS/DailyBoss-BrutalBosses-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "cd361110e542d6e2ed3e5b3cb41984239d3b80a28001618c0190ef98c20785a1f1a5c3b2c4206ea618ff7faf4e2719269caeda6e6f8f0bab30cabd28836e5a19"
+
+[update]
+[update.modrinth]
+mod-id = "HnkK6EjT"
+version = "dala7KeS"
