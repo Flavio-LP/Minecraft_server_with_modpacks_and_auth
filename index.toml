@@ -11,6 +11,11 @@ hash = "36c1d9057db42df7c2573c8673bef9a2d6ac0c43599ee0f8209573bbd3dd3bcf"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "fec49033058ced91f7668d4e305e599f5527501ef37c1f30f96d8927d6202d32"
+metafile = true
+
+[[files]]
+file = "mods/brazilian-craft-cars.pw.toml"
+hash = "7abad4b99174192102de20423d118c53cc096545bfdda5e60d6cb02d94fde729"
 metafile = true
 
 [[files]]
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "d708dafda8d474f4d0b0805a5fd2222c6bb21444d336de262016ef4de0ebfcb4"
 metafile = true
 
 [[files]]
@@ -96,8 +111,13 @@ hash = "78d30294130d53db3b1de3bc1d97b8c55e32744ec26fc10a676ce0b7835e010d"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "b55f3276124e13e8b3899d4d0400e990dea41d228644be34b341e62fe8abed6e"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
-hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
+hash = "5cc92eb0e58c2afbfd625d727d80da1d1c84500ec962bb22f5be28b864f18551"
 metafile = true
 
 [[files]]
@@ -146,6 +166,11 @@ hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
+file = "mods/lucent.pw.toml"
+hash = "2a25158198d33e13a0f0a79126ac9dc220793a16cf43e3688da290a0d6266689"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "fbe4c27d4b52ee8c1b01643ba07c18d265a07aaea2426e67c6f9a1a298ce6a12"
 metafile = true
@@ -171,6 +196,11 @@ hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "735f31ea8d11cf6d98bb4581b8538acd2540fa6319ebffeacd844a63d0bc103b"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "0620cfb754ae5841a4383fb1db40f48a83b0c4fb659dd9b8dfe5cd51282a1f4e"
 metafile = true
@@ -188,6 +218,16 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "50821203e1ce17c63e191385d20bcbbcdc50558574c37602733b461be05be9f4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "e61062426655c219eecbac4c3f08920eaf37f1883ea131528494c502b08d422a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "0ea8431331e3a8e384b8ed8bb34e791e742beb6bd115b70ba2fd305384aae053"
 metafile = true
 
 [[files]]
@@ -233,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
