@@ -276,6 +276,11 @@ hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "9c33a58f971fdd8e8c83e59e5a2ee6d183901c08d09022c4309769a813d3e33b"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
