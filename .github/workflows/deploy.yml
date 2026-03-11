@@ -19,12 +19,7 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd /caminho/do/seu/projeto
-            
-            # Atualiza o modpack via packwiz (opcional)
-            # packwiz update --all
-            
-            # Reinicia o container
-            docker restart ${{ secrets.CONTAINER_NAME }}
-            
-            echo "✅ Container reiniciado com sucesso!"
+            cd /home/flavio/minecraft/Minecraft_server_with_modpacks_and_auth
+            docker compose pull
+            docker compose up -d
+            echo "✅ Deploy realizado com sucesso!"
