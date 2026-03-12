@@ -22,7 +22,7 @@ Baixe em: [prismlauncher.org](https://prismlauncher.org)
 ### 2. Importe o Modpack
 - Abra o Prism Launcher
 - Clique em **Add Instance → Import**
-- Selecione o arquivo `.mrpack` disponibilizado no Discord
+- Selecione o arquivo `.mrpack` disponibilizado no link: [Download](https://minecraft.dos-guri.devtechrails.com/modpack)
 
 <!--### 3. Configure o Pre-launch e Post-exit
 Vá em **Edit Instance → Settings → Custom Commands** e configure:
@@ -80,6 +80,7 @@ curl -X POST https://SEU_IP:3000/api/players \
 | **Flux Networks** | Redes de energia sem fio compatível com todos os mods |
 | **Powah** | Geração de energia simples e progressiva |
 | **Extreme Reactors** | Reatores nucleares de grande escala |
+| **Create: Diesel Generators** | Geradores a diesel para o mod Create |
 
 ### 📦 Armazenamento
 | Mod | Descrição |
@@ -87,6 +88,7 @@ curl -X POST https://SEU_IP:3000/api/players \
 | **Applied Energistics 2** | Armazenamento digital avançado com autocrafting |
 | **AE2 Wireless Terminals** | Acesso ao AE2 de qualquer lugar via terminal sem fio |
 | **Iron Chests** | Baús maiores em ferro, ouro, diamante e mais |
+| **Sophisticated Backpacks** | Mochilas com slots e upgrades avançados |
 
 ### 🚰 Transporte
 | Mod | Descrição |
@@ -113,6 +115,12 @@ curl -X POST https://SEU_IP:3000/api/players \
 | **Chunk Loaders** | Mantém chunks carregados mesmo com o jogador offline |
 | **FTB Chunks Compatibility** | Compatibilidade de proteção de chunks |
 
+### 🚗 Veículos
+| Mod | Descrição |
+|---|---|
+| **Immersive Vehicles** | Veículos funcionais: carros, aviões, barcos e helicópteros |
+| **Brazilian Craft Cars** | Carros brasileiros com modelos realistas |
+
 ### 🌍 Dimensões
 | Mod | Descrição |
 |---|---|
@@ -124,7 +132,9 @@ curl -X POST https://SEU_IP:3000/api/players \
 | **L_Ender's Cataclysm** | Bosses épicos endgame em arenas especiais com múltiplas fases |
 | **Stalwart Dungeons** | Dungeons no Nether e End com bosses invocáveis em altares |
 | **Dungeon Crawl** | Masmorras roguelike geradas pelo mundo com loot progressivo |
-| **Daily Boss x Brutal Bosses** | Bosses diários com recompensas especiais |
+| **Brutal Bosses** | Bosses customizáveis com comportamentos e loot configuráveis |
+| **Daily Boss** | Spawna um boss diário com recompensas especiais |
+| **Daily Boss x Brutal Bosses** | Integração entre Daily Boss e Brutal Bosses |
 
 ### 🗺️ Qualidade de Vida
 | Mod | Descrição |
@@ -134,6 +144,10 @@ curl -X POST https://SEU_IP:3000/api/players \
 | **Jade** | Informações de blocos e máquinas ao passar o mouse |
 | **Waystones** | Pontos de teleporte pelo mundo |
 | **Inventory Sorter** | Organiza inventário com 1 clique |
+| **GraveStone Mod** | Gera uma lápide com seus itens ao morrer |
+| **HT's TreeChop** | Derruba a árvore inteira ao cortar o bloco base |
+| **GuideME** | Sistema de guias integrado ao Applied Energistics 2 |
+| **Lucent** | Melhora a iluminação dinâmica no cliente |
 
 ### 🔧 Dependências e APIs
 > Instaladas automaticamente, não requerem configuração.
@@ -154,6 +168,8 @@ curl -X POST https://SEU_IP:3000/api/players \
 | **Supermartijn642's Core Lib** | Core do Chunk Loaders |
 | **Titanium** | Dependência do Industrial Foregoing |
 | **ZeroCore** | Dependência do Extreme Reactors |
+| **Sophisticated Core** | Dependência do Sophisticated Backpacks |
+| **Cupboard** | Dependência utilitária de vários mods |
 
 <!--
 ## 🛠️ Para Administradores
