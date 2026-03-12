@@ -20,7 +20,9 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY_MODPACK }}
           script: |
             cd /home/ubuntu/minecraft/Minecraft_server_with_modpacks_and_auth
-            git pull origin -u main
+            git config --global --add safe.directory /home/ubuntu/minecraft/Minecraft_server_with_modpacks_and_auth
+            git pull origin main
+            export PATH=$PATH:/usr/local/go/bin:/home/deploy_github/go/bin
             packwiz refresh
             packwiz modrinth export
             echo "✅ Arquivo compilado com sucesso"
