@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/deploy.yml"
+hash = "292eba1ff586ebd29878d0b2a74fc1f41f8d12c9d395bad6910369a1df4f6a86"
+
+[[files]]
+file = ".github/workflows/deploy_modpack.yml"
+hash = "ed397ed5760b7b1398d9335a25288f8dc305f65e2aaf1019007d37ca8ec7ea0d"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
 metafile = true
@@ -307,4 +315,4 @@ metafile = true
 
 [[files]]
 file = "readme.md"
-hash = "1685263111632eae94014c77977133e7781cf27d2fab3aee565b936f074e3fd2"
+hash = "c4f609372cffd485936630c392d0d2d75d617aa453b2c9fdd995a00612d0b8f9"
